@@ -14,7 +14,7 @@ for features that were added every day as a team, by using SCRUM points, dayly m
 it was a prototype of a real project.
 
 ## How to use
-###IT´S NOT COMPLETE
+### IT´S NOT COMPLETE
 This project was only a prototype that showed a catalog, the shopping feature, the cart feature and the simulation of a real webpage. It 
 was implemented with a Database where we filled the inventory with prices, quantity and other properties, but nothing more. The other
 purpose of the project was to help us learn the use of the frameworks and personalization that brings. 
