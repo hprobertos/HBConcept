@@ -20,4 +20,9 @@ This project was only a prototype that showed a catalog, the shopping feature, t
 was implemented with a Database where we filled the inventory with prices, quantity and other properties, but nothing more. The other
 purpose of the project was to help us learn the use of the frameworks and personalization that brings. 
 
+## Compatibility 
+This game was developed to run in Chrome navigator, it may run in other navigators such as Firefox or Edge, but it´s not recommend it.
+It can also run in android or apple devices as a webpage, but it may have bugs.
+
+## Credit
 You have all rights to use it as you wish, but I will be so grateful if you credit me for my hard work. Have fun!
